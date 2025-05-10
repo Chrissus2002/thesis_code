@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+ESG_reports/
+venv/
+
 # C extensions
 *.so
 
